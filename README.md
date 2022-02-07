@@ -1,6 +1,6 @@
 # basic_Keylogger
 
-Use it to capture the passwords and send it through gmail account
+Use  to capture the keyboard strokes and send it through gmail account
 
 
 
